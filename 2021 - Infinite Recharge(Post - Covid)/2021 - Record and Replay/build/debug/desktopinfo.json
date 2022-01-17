@@ -1,0 +1,11 @@
+[
+  {
+    "name": "initalCode (in project initalCode)",
+    "file": "C:\\Users\\kriss\\OneDrive\\Desktop\\2021 code\\2021 General testing purposes\\initalCode\\build\\libs\\initalCode.jar",
+    "extensions": [
+      "C:\\Users\\kriss\\OneDrive\\Desktop\\2021 code\\2021 General testing purposes\\initalCode\\build\\tmp\\expandedArchives\\halsim_gui-2020.3.2-windowsx86-64.zip_45369a593bb959ce657791ae7ab7334a\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\kriss\\OneDrive\\Desktop\\2021 code\\2021 General testing purposes\\initalCode\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]

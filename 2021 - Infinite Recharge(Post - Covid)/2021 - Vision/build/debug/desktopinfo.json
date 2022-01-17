@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Chargers2021 (in project Chargers2021)",
+    "file": "C:\\Users\\Bryan\\Desktop\\Code 2021\\2021\\Chargers2021\\build\\libs\\Chargers2021.jar",
+    "extensions": [
+      "C:\\Users\\Bryan\\Desktop\\Code 2021\\2021\\Chargers2021\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\Bryan\\Desktop\\Code 2021\\2021\\Chargers2021\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]

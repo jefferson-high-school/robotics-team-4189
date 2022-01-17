@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>gamer.bmp</filename>
+	<path>C:\Users\Chargers\Desktop\balls\gamer.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>41</ymin>
+			<xmax>100</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>
